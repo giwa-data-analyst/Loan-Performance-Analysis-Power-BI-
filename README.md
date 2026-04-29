@@ -88,4 +88,9 @@ Future analysis will include:
 - Predictive insights for default risk
 
 ## Dashboard Preview
+<br>
+
+<img src="images/executive-overview.png" width="800"/>
+
+<br>
 
