@@ -94,3 +94,13 @@ Future analysis will include:
 
 <br>
 
+### Author
+**Giwa Aaron Babatunde**
+
+Aspiring Data Analyst | Passionate about Financial Data Analysis
+
+### Final Note
+
+This project highlights how data analysis can be used to uncover patterns in financial performance and support better decision-making in lending environments.
+
+
