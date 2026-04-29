@@ -24,9 +24,8 @@ The dataset contains approximately 9,500+ loan records with key variables such a
 - Interest Rate, Installment, and other financial metrics
 
 ### 📂 Data Source
-- [ Dataset] (data/loan_dataset.csv)
-- [Power BI File] (pbix/Loans_Performance_Analysis.pbix)
-
+- 📊 [Download Power BI File](pbix/Loans_Performance_Analysis.pbix)
+- 📁 [View Dataset](data/loan_dataset.csv)
 
 ## Key Performance Indicators (KPIs)
 
