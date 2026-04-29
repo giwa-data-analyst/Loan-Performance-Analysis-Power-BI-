@@ -104,6 +104,10 @@ Future analysis will include:
 
 Aspiring Data Analyst | Passionate about Financial Data Analysis
 
+- 💼 LinkedIn: https://www.linkedin.com/in/giwa-data-analyst  
+- 📧 Email: withaaronbabatunde@gmail.com  
+- 💻 GitHub: https://github.com/giwa-data-analyst
+
 ### Final Note
 
 This project highlights how data analysis can be used to uncover patterns in financial performance and support better decision-making in lending environments.
