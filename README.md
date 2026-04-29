@@ -90,7 +90,7 @@ Future analysis will include:
 ## Dashboard Preview
 <br>
 
-<img src="images/executive-overview.png" width="800"/>
+<img src="images/loan_performance_analysis_db.png" width="800"/>
 
 <br>
 
