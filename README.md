@@ -26,6 +26,7 @@ The dataset contains approximately 9,500+ loan records with key variables such a
 ### 📂 Data Source
 - 📊 [Download Power BI File](pbix/Loans_Performance_Analysis.pbix)
 - 📁 [View Dataset](data/loan_dataset.csv)
+- 📁 [View dashboard](images/loan_performance_analysis_db.png)
 
 ## Key Performance Indicators (KPIs)
 
