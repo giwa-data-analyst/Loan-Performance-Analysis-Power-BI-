@@ -23,6 +23,11 @@ The dataset contains approximately 9,500+ loan records with key variables such a
 - Debt-to-Income (DTI) Group
 - Interest Rate, Installment, and other financial metrics
 
+### 📂 Data Source
+- [ Dataset] (data/loan_dataset.csv)
+- [Power BI File] (pbix/Loans_Performance_Analysis.pbix)
+
+
 ## Key Performance Indicators (KPIs)
 
 - Total Loans: 10K
